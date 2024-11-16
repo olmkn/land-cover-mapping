@@ -1,6 +1,6 @@
 # Pixel-based Remote Sensing Image Classification
 
-*This project focuses on supervised classification of Sentinel-2 satellite imagery to map land cover types over an area in the Skadovsk rayon, Kherson oblast. By leveraging advanced feature engineering and machine learning techniques, this project achieves achieved a peak accuracy of 94% using ANN in identifying diverse land cover classes.*
+*This project focuses on supervised classification of Sentinel-2 satellite imagery to map land cover types over an area in the Skadovsk rayon, Kherson oblast. By leveraging feature engineering and machine learning techniques, this project achieved a peak accuracy of 94% using ANN in identifying diverse land cover classes.*
 
 ---
 
